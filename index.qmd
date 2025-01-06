@@ -50,14 +50,14 @@ If you are already at Harbor Walk feel free to drop by during my office hours ({
 | Thursday | **By Appointment Only** | - |
 -->
 
-| Day |                                                                Hours | Exceptions |
-|:---|---------------------------------------------------------------------:|---|
-| Monday |   8:30 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm | _January 13<sup>th</sup> - out of office_ |
-| Tuesday |         8:30 am - 1:30 pm <br> **Appointment Only**: 🌙 8 pm - 10 pm | - | 
-| Wednesday | 8:30 am - 10:30 am <br>  **CSCI 340 Class** <br> 11:30 am - 12:30 pm | - |
-| Thursday |                                                 **Appointment Only** | - |
-| Friday |                           **CSCI 340 Class** <br> 11:30 am - 1:30 pm | _January 17<sup>th</sup> - out of office_ |
-: My Office Hours {.striped }
+| Day       |                                                                Hours | Exceptions                                                                                |
+|:----------|---------------------------------------------------------------------:|-------------------------------------------------------------------------------------------|
+| Monday    |   8:30 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm | _January 13<sup>th</sup> - out of office_ <br> _January 20<sup>th</sup> - MLK Jr Holiday_ |
+| Tuesday   |         8:30 am - 1:30 pm <br> **Appointment Only**: 🌙 8 pm - 10 pm |                                                                                           | 
+| Wednesday | 8:30 am - 10:30 am <br>  **CSCI 340 Class** <br> 11:30 am - 12:30 pm |                                                                                           |
+| Thursday  |                                                 **Appointment Only** |                                                                                           |
+| Friday    |                           **CSCI 340 Class** <br> 11:30 am - 1:30 pm | _January 17<sup>th</sup> - out of office_                                                 |
+: Tuck Williamson's Office Hours {.striped }
 
 # Appointments
 

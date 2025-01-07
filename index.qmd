@@ -79,6 +79,6 @@ get an idea of what you need to discuss.
 I am happy to help out either in person or via zoom, but for zoom based help 
 please make an appointment. 
 Tuesday evening hours that are **Appointment Only** will be offered by zoom appointment. 
-[Book a zoom appointment]({{< meta booklink >}}){.external target="_blank"}. 
+[Book a zoom appointment]({{< meta zoomlink >}}){.external target="_blank"}. 
 
 

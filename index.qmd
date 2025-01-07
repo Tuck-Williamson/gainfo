@@ -65,7 +65,7 @@ If you are already at Harbor Walk feel free to drop by during my office hours ({
 | Wednesday | 8:30 am - 10:30 am <br>  **CSCI 340 Class** <br> 11:30 am - 12:30 pm |                                                                                           |
 | Thursday  |                                                 **Appointment Only** |                                                                                           |
 | Friday    |                           **CSCI 340 Class** <br> 11:30 am - 1:30 pm | _January 17<sup>th</sup> - out of office_                                                 |
-: Tuck Williamson's Office Hours {.striped }
+: Office Hours {.striped }
 
 # Appointments
 

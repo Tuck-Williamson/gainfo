@@ -4763,7 +4763,7 @@ Caution
 </div>
 <div class="callout-body-container callout-body">
 <p><strong>Please check here prior to making a trip to my office.</strong></p>
-<p>I <strong>will</strong> update my office hours throughout the semester specifically after the first couple of weeks when I have determined what works best for you, and for my classes/assignments.</p>
+<p>I <strong>will</strong> update my office hours here throughout the semester. Specifically after the first couple of weeks when I have determined what works best for you, and for my classes/assignments.</p>
 </div>
 </div>
 <p>If you are already at Harbor Walk feel free to drop by during my office hours (Harbor Walk East (HWEA) 311).</p>
@@ -4816,8 +4816,8 @@ Caution
 </section>
 <section id="appointments" class="level1">
 <h1>Appointments</h1>
-<p>You don’t <strong>need</strong> to make an appointment for my office hours; however, I do have a family and may have things come up. If you know you want to see me then making an appointment will be helpful both in that if something comes up I know who I need to reschedule, and additionally I can get an idea of what you need to discuss. Use the <code>Book an appointment</code> link in this site’s “Other Links” section.</p>
-<p>I am happy to help out either in person or via zoom, but for zoom based help please make an appointment. Use the <code>Book a zoom appointment</code> link in this site’s “Other Links” section.</p>
+<p>You don’t <strong>need</strong> to make an appointment for my office hours; however, I do have a family and may have things come up. If you know you want to see me then making an appointment will be helpful both in that if something comes up I know who I need to reschedule, and additionally I can get an idea of what you need to discuss. <a href="https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&amp;ep=plink" class="external" target="_blank">Book an appointment</a>.</p>
+<p>I am happy to help out either in person or via zoom, but for zoom based help please make an appointment. Tuesday evening hours that are <strong>Appointment Only</strong> will be offered by zoom appointment. <a href="https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&amp;ep=plink" class="external" target="_blank">Book a zoom appointment</a>.</p>
 
 
 </section>
@@ -4929,6 +4929,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

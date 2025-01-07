@@ -1,9 +1,18 @@
 ---
 title: "CSCI 340 Operating Systems I - Spring 2025"
+# ---- My Variables ----
+office: "Harbor Walk East (HWEA) 311"
+#Change this below in the metadata too.
+booklink: https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
+#Change this below in the metadata too.
+zoomlink: https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
+# ---- End My Variables ----
 #author: Tuck Williamson
 #date: 2025-01-06
 format:
   html:
+    link-external-icon: true
+    link-external-newwindow: true
     embed-resources: true
     toc: true
     other-links:
@@ -15,7 +24,6 @@ format:
         href: https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
         target: _blank
         icon: calender-day
-office: "Harbor Walk East (HWEA) 311"
 ---
 
 # Tuck Williamson, Graduate Teaching Assistant { .unnumbered .unlisted }
@@ -37,9 +45,9 @@ Graduate Student - Masters in Computer Science, College of Charleston
 
 **Please check here prior to making a trip to my office.**
 
-I **will** update my office hours throughout the semester specifically after the 
-first couple of weeks when I have determined what works best for you, and for my 
-classes/assignments.
+I **will** update my office hours here throughout the semester.
+Specifically after the first couple of weeks when I have determined what works 
+best for you, and for my classes/assignments.
 
 ::::
 
@@ -65,11 +73,12 @@ You don't **need** to make an appointment for my office hours; however, I do hav
 family and may have things come up. 
 If you know you want to see me then making an appointment will be helpful both in 
 that if something comes up I know who I need to reschedule, and additionally I can 
-get an idea of what you need to discuss. Use the `Book an appointment` link in this 
-site's "Other Links" section.
+get an idea of what you need to discuss. 
+[Book an appointment]({{< meta booklink >}}){.external target="_blank"}.
 
-I am happy to help out either in person or via zoom, but for zoom based help please 
-make an appointment. Use the `Book a zoom appointment` link in this 
-site's "Other Links" section.
+I am happy to help out either in person or via zoom, but for zoom based help 
+please make an appointment. 
+Tuesday evening hours that are **Appointment Only** will be offered by zoom appointment. 
+[Book a zoom appointment]({{< meta booklink >}}){.external target="_blank"}. 
 
 

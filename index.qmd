@@ -3,9 +3,9 @@ title: "CSCI 340 Operating Systems I - Spring 2025"
 # ---- My Variables ----
 office: "Harbor Walk East (HWEA) 311"
 #Change this below in the metadata too.
-booklink: https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
+booklink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
 #Change this below in the metadata too.
-zoomlink: https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
+zoomlink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
 # ---- End My Variables ----
 #author: Tuck Williamson
 #date: 2025-01-06
@@ -17,11 +17,11 @@ format:
     toc: true
     other-links:
       - text: Book an appointment
-        href: https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
+        href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
         target: _blank
         icon: calender-day
       - text: Book a zoom appointment
-        href: https://outlook-sdf.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
+        href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
         target: _blank
         icon: calender-day
 ---

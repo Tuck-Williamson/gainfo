@@ -1,14 +1,14 @@
 ---
 title: "CSCI 340 Operating Systems I - Spring 2025"
 # ---- My Variables ----
-office: "Harbor Walk East (HWEA) 311"
+office: "Harbor Walk East - HWEA 311"
 #Change this below in the metadata too.
 booklink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
 #Change this below in the metadata too.
 zoomlink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
 # ---- End My Variables ----
 #author: Tuck Williamson
-#date: 2025-01-06
+date-modified: now
 format:
   html:
     link-external-icon: true
@@ -36,7 +36,7 @@ Graduate Student - Masters in Computer Science, College of Charleston
 
 **Office**: {{< meta office >}}
 
-**Email Me**: *LASTNAME***th** (at) g (dot) cofc (dot) edu
+**Email Me**: *williamson***th** (at) cofc (dot) edu
 
 # Office Hours
 
@@ -65,7 +65,7 @@ If you are already at Harbor Walk feel free to drop by during my office hours ({
 | Wednesday | 8:30 am - 10:30 am <br>  **CSCI 340 Class** <br> 11:30 am - 12:30 pm |                                                                                           |
 | Thursday  |                                                 **Appointment Only** |                                                                                           |
 | Friday    |                           **CSCI 340 Class** <br> 11:30 am - 1:30 pm | _January 17<sup>th</sup> - out of office_                                                 |
-: Office Hours {.striped }
+: Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments
 

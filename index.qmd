@@ -11,9 +11,11 @@ zoomlink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a526
 date-modified: now
 format:
   html:
+    code-copy: hover
     link-external-icon: true
     link-external-newwindow: true
-    embed-resources: true
+    email-obfuscation: javascript
+#    embed-resources: true
     toc: true
     other-links:
       - text: Book an appointment
@@ -32,14 +34,35 @@ format:
 
 Graduate Student - Masters in Computer Science, College of Charleston
 
+
+:::: { .callout-important }
+
+Do not wait until the last minute to contact me for help! I have a family and my
+own classes.
+
+If you have not [made an appointment](#appointments) or 
+[requested an appointment](#requesting-help-outside-of-office-hours)
+outside my regular office hours in advance there may be little I can do to 
+help you on short notice.
+
+I will not be hurt or upset if you **book early and then cancel when you don't need 
+help**^[Please cancel and don't just not show up. There is a button in your 
+calendar event to cancel, so it's easy.].
+Do that instead of emailing me at the last minute please.
+
+::::
+
+
 # Contact Information
+
+**Email Me**: *williamson***th** (at) cofc (dot) edu - 
+[email][email]{.external target="_blank"}
+
+[email]: mailto:williamsonth@cofc.edu?subject=Question%20about%20340
 
 **Office**: {{< meta office >}}
 
-**Email Me**: *williamson***th** (at) cofc (dot) edu
-
 # Office Hours
-
 
 :::: { .callout-caution}
 
@@ -81,4 +104,85 @@ please make an appointment.
 Tuesday evening hours that are **Appointment Only** will be offered by zoom appointment. 
 [Book a zoom appointment]({{< meta zoomlink >}}){.external target="_blank"}. 
 
+## Requesting Help Outside of Office Hours
+
+If my office hours are not compatible with your schedule please [request a meeting
+with me using this link][reqOOOM]{.external target="_blank"}. I will try and 
+schedule time with you that works for both of our schedules. 
+
+Providing me with **at least three** options that would work for your schedule 
+would be **helpful**.
+
+[reqOOOM]: mailto:williamsonth@cofc.edu?subject=Request%20for%20a%20meeting%20outside%20of%20office%20hours.&body=I%20want%20to%20request%20a%20meeting%20outside%20of%20your%20office%20hours.%0A%0AI%20would%20be%20able%20to%20meet%20the%20following%20times%3A%0A1%3A%20%0A2%3A%0A3%3A%0A%0AThank%20you%2C%0A%0AYOUR_NAME_HERE
+
+
+# Zoom Information
+
+I will also be available via zoom during my office hours. If you want to have an
+unscheduled zoom session with me during office hours you can try my personal 
+meeting room (details below).
+
+
+:::: { .callout-warning }
+
+If I do not accept you into my meeting I may be busy with another student via zoom
+or in person.
+
+In such an event please either book an appointment ([see above](#appointments)) or 
+[email me][email] and I will get back to you as soon as I can.
+
+::::
+
+
+## Zoom Meeting Details
+**Topic**: Tuck Williamson's Personal Meeting Room
+
+[Join Zoom Meeting
+https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1](https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1){.external target="_blank"}
+
+```default
+https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1
+```
+
+**Meeting ID**: 
+
+```default
+280 596 3064
+```
+
+**Passcode**: 
+
+``` default
+A1ZkH9
+```
+
+---
+
+One tap mobile
+[+13092053325,,2805963064# US](tel:+13092053325,,2805963064#)
+[+13126266799,,2805963064# US (Chicago)](tel:+13126266799,,2805963064#)
+
+---
+
+Dial by your location
+
+- [+1 309 205 3325 US](tel:+13092053325)
+- [+1 312 626 6799 US (Chicago)](tel:+13126266799)
+- [+1 646 558 8656 US (New York)](tel:+16465588656)
+- [+1 646 931 3860 US](tel:+16469313860)
+- [+1 301 715 8592 US (Washington DC)](tel:+13017158592)
+- [+1 305 224 1968 US](tel:+13052241968)
+- [+1 669 900 9128 US (San Jose)](tel:+16699009128)
+- [+1 689 278 1000 US](tel:+16892781000)
+- [+1 719 359 4580 US](tel:+17193594580)
+- [+1 253 205 0468 US](tel:+12532050468)
+- [+1 253 215 8782 US (Tacoma)](tel:+12532158782)
+- [+1 346 248 7799 US (Houston)](tel:+13462487799)
+- [+1 360 209 5623 US](tel:+13602095623)
+- [+1 386 347 5053 US](tel:+13863475053)
+- [+1 507 473 4847 US](tel:+15074734847)
+- [+1 564 217 2000 US](tel:+15642172000)
+- [+1 669 444 9171 US](tel:+16694449171)
+
+Find your local number: <https://cofc.zoom.us/u/adSKwf1df4>
 

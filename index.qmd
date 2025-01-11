@@ -1,7 +1,7 @@
 ---
 title: "CSCI 340 Operating Systems I - Spring 2025"
 # ---- My Variables ----
-office: "Harbor Walk East - HWEA 311"
+office: "Harbor Walk East - HWEA Office #**311**"
 #Change this below in the metadata too.
 booklink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
 #Change this below in the metadata too.
@@ -9,6 +9,7 @@ zoomlink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a526
 # ---- End My Variables ----
 #author: Tuck Williamson
 date-modified: now
+from: markdown+emoji
 format:
   html:
     code-copy: hover
@@ -40,25 +41,37 @@ Graduate Student - Masters in Computer Science, College of Charleston
 Do not wait until the last minute to contact me for help! I have a family and my
 own classes.
 
-If you have not [made an appointment](#appointments) or 
+If you have not [made an appointment](#appointments) during my office hours or 
 [requested an appointment](#requesting-help-outside-of-office-hours)
 outside my regular office hours in advance there may be little I can do to 
 help you on short notice.
 
 I will not be hurt or upset if you **book early and then cancel when you don't need 
-help**^[Please cancel and don't just not show up. There is a button in your 
-calendar event to cancel, so it's easy.].
+help**^[Please cancel if possible. There is a button in your 
+calendar event to cancel to make it easy to do so.].
 Do that instead of emailing me at the last minute please.
 
 ::::
 
+# Links
+
+**Just the important stuff conveniently collected.**
+
+- [message me][email]{.external target="_blank"}
+- [Book an appointment]({{< meta booklink >}}){.external target="_blank"}.
+- [Book a zoom appointment]({{< meta zoomlink >}}){.external target="_blank"}.
+- [Request a meeting outside of normal office hours.][reqOOOM]
 
 # Contact Information
 
 **Email Me**: *williamson***th** (at) cofc (dot) edu - 
-[email][email]{.external target="_blank"}
+[message me][email]{.external target="_blank"}
 
+[email]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hURTFMVjlLWkdYTEk3QkxYRUxGTkE5NjM5Wi4u
+
+<!--
 [email]: mailto:williamsonth@cofc.edu?subject=Question%20about%20340
+-->
 
 **Office**: {{< meta office >}}
 
@@ -83,11 +96,11 @@ If you are already at Harbor Walk feel free to drop by during my office hours ({
 
 | Day       |                                                                Hours | Exceptions                                                                                |
 |:----------|---------------------------------------------------------------------:|-------------------------------------------------------------------------------------------|
-| Monday    |   8:30 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm | _January 13<sup>th</sup> - out of office_ <br> _January 20<sup>th</sup> - MLK Jr Holiday_ |
-| Tuesday   |         8:30 am - 1:30 pm <br> **Appointment Only**: 🌙 8 pm - 10 pm |                                                                                           | 
-| Wednesday | 8:30 am - 10:30 am <br>  **CSCI 340 Class** <br> 11:30 am - 12:30 pm |                                                                                           |
+| Monday    |      9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm | _January 13<sup>th</sup> - out of office_ <br> _January 20<sup>th</sup> - MLK Jr Holiday_ |
+| Tuesday   | 9 am - 12 pm <br>:arrow_down:**Appointment Only**:arrow_down:<br>🌙 8 pm - 10 pm |                                                                                           | 
+| Wednesday |        9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12 pm |                                                                                           |
 | Thursday  |                                                 **Appointment Only** |                                                                                           |
-| Friday    |                           **CSCI 340 Class** <br> 11:30 am - 1:30 pm | _January 17<sup>th</sup> - out of office_                                                 |
+| Friday    |     9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12:30 pm | _January 17<sup>th</sup> - out of office_                                                 |
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments
@@ -107,21 +120,30 @@ Tuesday evening hours that are **Appointment Only** will be offered by zoom appo
 ## Requesting Help Outside of Office Hours
 
 If my office hours are not compatible with your schedule please [request a meeting
-with me using this link][reqOOOM]{.external target="_blank"}. I will try and 
+with me by filling out the linked form][reqOOOM]. I will try and 
 schedule time with you that works for both of our schedules. 
 
+
+[reqOOOM]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUNVJKTTZQSFUyRVRVVkZSUzdWTzRYNjYxNy4u {.external target="_blank"}
+
+<!--
 Providing me with **at least three** options that would work for your schedule 
 would be **helpful**.
-
-[reqOOOM]: mailto:williamsonth@cofc.edu?subject=Request%20for%20a%20meeting%20outside%20of%20office%20hours.&body=I%20want%20to%20request%20a%20meeting%20outside%20of%20your%20office%20hours.%0A%0AI%20would%20be%20able%20to%20meet%20the%20following%20times%3A%0A1%3A%20%0A2%3A%0A3%3A%0A%0AThank%20you%2C%0A%0AYOUR_NAME_HERE
-
+[reqOOOM]: mailto:williamsonth@cofc.edu?subject=Request%20for%20a%20meeting%20outside%20of%20office%20hours.&body=I%20want%20to%20request%20a%20meeting%20outside%20of%20your%20office%20hours.%0A%0AI%20would%20be%20able%20to%20meet%20the%20following%20times%3A%0A1%3A%20%0A2%3A%0A3%3A%0A%0AThank%20you%2C%0A%0AYOUR_NAME_HERE {.external target="_blank"}
+-->
 
 # Zoom Information
 
 I will also be available via zoom during my office hours. If you want to have an
 unscheduled zoom session with me during office hours you can try my personal 
-meeting room (details below).
+meeting room (details below). Please just 
+[fill this out and I will get pinged with the request][reqZoomNow].
 
+<!--
+[reqZoomNow]: mailto:williamsonth@cofc.edu?subject=Would%20you%20be%20able%20to%20have%20a%20Zoom%20meeting%20Now%3F&body=Would%20you%20be%20able%20to%20zoom%20with%20me%20shortly%3F%0A%0AADD-DETAILS-HERE-IF-YOU-WANT%0A%0AThanks%2C%0A%0AYOUR_NAME_HERE
+-->
+
+[reqZoomNow]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUQUQ4UTk0VTI1SVBSTlVDVTIxSjE4VUkwRy4u
 
 :::: { .callout-warning }
 

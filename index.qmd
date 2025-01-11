@@ -57,9 +57,9 @@ Do that instead of emailing me at the last minute please.
 
 **Just the important stuff conveniently collected.**
 
-- [message me][email]{.external target="_blank"}
-- [Book an appointment]({{< meta booklink >}}){.external target="_blank"}.
-- [Book a zoom appointment]({{< meta zoomlink >}}){.external target="_blank"}.
+- [Message me.][email]{.external target="_blank"}
+- [Book an appointment.]({{< meta booklink >}}){.external target="_blank"}
+- [Book a zoom appointment.]({{< meta zoomlink >}}){.external target="_blank"}
 - [Request a meeting outside of normal office hours.][reqOOOM]
 
 # Contact Information

@@ -89,18 +89,26 @@ best for you, and for my classes/assignments.
 
 If you are already at Harbor Walk feel free to drop by during my office hours ({{< meta office >}}).
 
+## Center for Student Learning Office Hours
+
+I am working with the **[CSL](http://csl.cofc.edu/)** to integrate my office hours with the tutoring desk
+at **Harbor Walk East** room **105F**. 
+
+During the times listed below that are marked as **CSL** I will not be able to 
+zoom, but you are welcome to drop in at room **105F** to see me.
+
 <!-- 
 | Tuesday | **By Appointment Only** </br> 🌙 8 pm - 10 pm | - | 
 | Thursday | **By Appointment Only** | - |
 -->
 
-| Day       |                                                                Hours | Exceptions                                                                                |
-|:----------|---------------------------------------------------------------------:|-------------------------------------------------------------------------------------------|
-| Monday    |      9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm | _January 13<sup>th</sup> - out of office_ <br> _January 20<sup>th</sup> - MLK Jr Holiday_ |
-| Tuesday   | 9 am - 12 pm <br>:arrow_down:**Appointment Only**:arrow_down:<br>🌙 8 pm - 10 pm |                                                                                           | 
-| Wednesday |        9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12 pm |                                                                                           |
-| Thursday  |                                                 **Appointment Only** |                                                                                           |
-| Friday    |     9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12:30 pm | _January 17<sup>th</sup> - out of office_                                                 |
+| Day       |                                                                                                                   Hours | Exceptions |
+|:----------|------------------------------------------------------------------------------------------------------------------------:|------------|
+| Monday    |                                                         9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm |            |
+| Tuesday   | 9 am - 11 am<br>**CSL desk HWEA 105F! 11 am - 1 pm**<br>:arrow_down:**Appointment Only**:arrow_down:<br>🌙 8 pm - 10 pm |            | 
+| Wednesday |                                                           9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12 pm |            |
+| Thursday  |                                                                                                    **Appointment Only** |            |
+| Friday    |                                                        9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12:30 pm |            |
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments

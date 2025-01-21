@@ -5,3 +5,9 @@ website:
   google-analytics:
     tracking-id: "G-WRWNYTYD1G"
     storage: none
+  announcement:
+    icon: exclamation-circle
+    dismissable: true
+    content: "**Updated Office Hours - Jan 21<sup>st</sup>** - Please note that I have recent changes to my office hours."
+    type: danger
+    position: below-navbar

@@ -8,6 +8,6 @@ website:
   announcement:
     icon: exclamation-circle
     dismissable: true
-    content: "**Updated Office Hours - Jan 21<sup>st</sup>** - Please note that I have recent changes to my office hours."
+    content: "**Updated Office Hours - Jan 21<sup>st</sup>** - Please note that I have recent changes to my office hours.<br><i class=\"bi bi-thermometer-snow\"></i>&nbsp;I will still hold my office hours **via Zoom** during the *Inclement Weather* closure Jan 21-23. If you are working on HW1 and need help message me and I can help via Zoom."
     type: danger
     position: below-navbar

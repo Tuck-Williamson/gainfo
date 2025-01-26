@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 10001
+    host: 41eb1c561fe6 #`uname -n`
+    browser: false
 website:
   google-analytics:
     tracking-id: "G-WRWNYTYD1G"

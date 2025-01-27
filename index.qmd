@@ -104,13 +104,13 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 ## Current Office Hours Table
 
-| Day       |                                                                                                   Hours | Exceptions |
-|:----------|--------------------------------------------------------------------------------------------------------:|------------|
-| Monday    |                                         9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm |            |
-| Tuesday   | **CSL desk HWEA 105F! 11 am - 1 pm**<br>:arrow_down:**Appointment Only**:arrow_down:<br>🌙 8 pm - 10 pm |            | 
-| Wednesday |                                           9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12 pm |            |
-| Thursday  |                                                                                    **Appointment Only** |            |
-| Friday    |                                        9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12:30 pm |            |
+| Day       |                                                                                                   Hours | Exceptions                                                           |
+|:----------|--------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------|
+| Monday    |                                         9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm |                                                                      |
+| Tuesday   | **CSL desk HWEA 105F! 11 am - 1 pm**<br>:arrow_down:**Appointment Only**:arrow_down:<br>🌙 8 pm - 10 pm | Jan 28<sup>th</sup> I may be a few minutes late to the **CSL** desk. | 
+| Wednesday |                                           9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12 pm |                                                                      |
+| Thursday  |                                                                                    **Appointment Only** |                                                                      |
+| Friday    |                                        9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12:30 pm |                                                                      |
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments

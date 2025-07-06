@@ -1,7 +1,7 @@
 ---
-title: "CSCI 340 Operating Systems I - Spring 2025"
+title: "CSCI 340 Operating Systems - Summer II 2025"
 # ---- My Variables ----
-office: "Harbor Walk East - HWEA Office #**311**"
+#office: "Harbor Walk East - HWEA Office #**311**"
 #Change this below in the metadata too.
 booklink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
 #Change this below in the metadata too.
@@ -49,7 +49,7 @@ help you on short notice.
 I will not be hurt or upset if you **book early and then cancel when you don't need 
 help**^[Please cancel if possible. There is a button in your 
 calendar event to cancel to make it easy to do so.].
-Do that instead of emailing me at the last minute please.
+Book something then cancel instead of emailing me at the last minute please.
 
 ::::
 
@@ -73,10 +73,20 @@ Do that instead of emailing me at the last minute please.
 [email]: mailto:williamsonth@cofc.edu?subject=Question%20about%20340
 -->
 
+<!--
 **Office**: {{< meta office >}}
+-->
 
 # Office Hours
 
+:::: { .callout-caution}
+
+I am out of town for a family trip from **July 12** through **July 20**.
+I will not be available at all during this time. 
+
+::::
+
+<!--
 :::: { .callout-caution}
 
 **Please check here prior to making a trip to my office.**
@@ -96,12 +106,13 @@ hours with the tutoring desk at **Harbor Walk East** room **105F**.
 
 During the times listed below that are marked as **CSL** I will not be available
 to zoom, but you are welcome to drop in at room **105F** to see me.
+-->
 
 ## Current Office Hours Table
 
 | Day       |                                                                                                   Hours | Exceptions |
 |:----------|--------------------------------------------------------------------------------------------------------:|------------|
-| Monday    |                                         9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 2:30 pm |            |
+| Monday    |                                          End of class - 9 pm |            |
 | Tuesday   | **CSL desk HWEA 105F! 11 am - 1 pm**<br>:arrow_down:**Appointment Only**:arrow_down:<br>🌙 8 pm - 10 pm |            |
 | Wednesday |                                           9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12 pm |            |
 | Thursday  |                                                                                    **Appointment Only** |            |

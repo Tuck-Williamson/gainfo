@@ -1,7 +1,7 @@
 ---
 title: "CSCI 340 Operating Systems - Summer II 2025"
 # ---- My Variables ----
-#office: "Harbor Walk East - HWEA Office #**311**"
+office: "Harbor Walk East - HWEA Office #**311**"
 #Change this below in the metadata too.
 booklink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
 #Change this below in the metadata too.
@@ -35,7 +35,7 @@ format:
 
 Graduate Student - Masters in Computer Science, College of Charleston
 
-
+<!-- 
 :::: { .callout-important }
 
 Do not wait until the last minute to contact me for help! I have a family and my
@@ -61,13 +61,14 @@ Book something then cancel instead of emailing me at the last minute please.
 - [Book an appointment.]({{< meta booklink >}}){.external target="_blank"}
 - [Book a zoom appointment.]({{< meta zoomlink >}}){.external target="_blank"}
 - [Request a meeting outside of normal office hours.][reqOOOM]
-
+ -->
 # Contact Information
 
-**Email Me**: *williamson***th** (at) cofc (dot) edu - 
+**Email Me**: *williamson***th** (at) g (dot) cofc (dot) edu - 
 [message me][email]{.external target="_blank"}
 
-[email]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hURTFMVjlLWkdYTEk3QkxYRUxGTkE5NjM5Wi4u
+<!-- [email]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hURTFMVjlLWkdYTEk3QkxYRUxGTkE5NjM5Wi4u -->
+[email]: mailto:williamsonth@g.cofc.edu
 
 <!--
 [email]: mailto:williamsonth@cofc.edu?subject=Question%20about%20340
@@ -110,18 +111,21 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 ## Current Office Hours Table
 
-| Day       |                                                                                                   Hours | Exceptions |
-|:----------|--------------------------------------------------------------------------------------------------------:|------------|
-| Monday    |                                          End of class - 9 pm |            |
-| Tuesday   | **CSL desk HWEA 105F! 11 am - 1 pm**<br>:arrow_down:**Appointment Only**:arrow_down:<br>🌙 8 pm - 10 pm |            |
-| Wednesday |                                           9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12 pm |            |
-| Thursday  |                                                                                    **Appointment Only** |            |
-| Friday    |                                        9 am - 10:30 am <br> **CSCI 340 Class** <br> 11:30 am - 12:30 pm |            |
+
+| Day       |                                           Hours | Exceptions |
+|:----------|------------------------------------------------:|------------|
+| Monday    |                       🌙 End of class - 9:30 pm | **Out of Office July 14** |
+| Tuesday   |                                 🌙 8 pm - 10 pm | **Out of Office July 15** |
+| Wednesday |               8am - 10am                        | **Out of Office July 16** |
+| Thursday  |               10am - noon <br> 2pm - 4pm        | **Out of Office July 17** |
+| Friday - Sunday   |                **By appointment Only**  | **Out of Office July 18-20** |
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments
 
-You don't **need** to make an appointment for my office hours; however, I do have a 
+You don't need to book an appointment for office hours, but please e-mail me if it is during my posted hours and I don't immediately let you in to my zoom meeting.
+
+<!-- You don't **need** to make an appointment for my office hours; however, I do have a 
 family and may have things come up. 
 If you know you want to see me then making an appointment will be helpful both in 
 that if something comes up I know who I need to reschedule, and additionally I can 
@@ -132,12 +136,15 @@ I am happy to help out either in person or via zoom, but for zoom based help
 please make an appointment. 
 Tuesday evening hours that are **Appointment Only** will be offered by zoom appointment. 
 [Book a zoom appointment]({{< meta zoomlink >}}){.external target="_blank"}. 
+ -->
 
 ## Requesting Help Outside of Office Hours
 
-If my office hours are not compatible with your schedule please [request a meeting
-with me by filling out the linked form][reqOOOM]. I will try and 
+If my office hours are not compatible with your schedule please [email me and I will try and work something out.][email]{.external target="_blank"}
+I will try and 
 schedule time with you that works for both of our schedules. 
+<!-- [request a meeting
+with me by filling out the linked form][reqOOOM].  -->
 
 
 [reqOOOM]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUNVJKTTZQSFUyRVRVVkZSUzdWTzRYNjYxNy4u {.external target="_blank"}
@@ -150,17 +157,20 @@ would be **helpful**.
 
 # Zoom Information
 
+As this is a remote class all of my office hours will be zoom based and accessed using the information below.
+
+<!--
 I will also be available via zoom during my office hours. If you want to have an
 unscheduled zoom session with me during office hours you can try my personal 
 meeting room (details below). Please just 
 [fill this out and I will get pinged with the request][reqZoomNow].
 
-<!--
 [reqZoomNow]: mailto:williamsonth@cofc.edu?subject=Would%20you%20be%20able%20to%20have%20a%20Zoom%20meeting%20Now%3F&body=Would%20you%20be%20able%20to%20zoom%20with%20me%20shortly%3F%0A%0AADD-DETAILS-HERE-IF-YOU-WANT%0A%0AThanks%2C%0A%0AYOUR_NAME_HERE
 -->
 
 [reqZoomNow]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUQUQ4UTk0VTI1SVBSTlVDVTIxSjE4VUkwRy4u
 
+<!-- 
 :::: { .callout-warning }
 
 If I do not accept you into my meeting I may be busy with another student via zoom
@@ -170,7 +180,7 @@ In such an event please either book an appointment ([see above](#appointments)) 
 [email me][email] and I will get back to you as soon as I can.
 
 ::::
-
+ -->
 
 ## Zoom Meeting Details
 **Topic**: Tuck Williamson's Personal Meeting Room

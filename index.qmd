@@ -23,6 +23,10 @@ format:
         href: https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1
         target: _blank
         icon: chat-left-dots
+      - text: Class Zoom Link
+        href: https://cofc.zoom.us/j/97351824309?pwd=ZXhycXYveW9ycTNqMUdCak9nNkpNQT09
+        target: _blank
+        icon: chat-left-dots
     #  - text: Book an appointment
     #    href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
     #    target: _blank

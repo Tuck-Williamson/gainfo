@@ -19,14 +19,18 @@ format:
 #    embed-resources: true
     toc: true
     other-links:
-      - text: Book an appointment
-        href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
+      - text: Office Hours Zoom
+        href: https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1
         target: _blank
-        icon: calender-day
-      - text: Book a zoom appointment
-        href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
-        target: _blank
-        icon: calender-day
+        icon: chat-left-dots
+    #  - text: Book an appointment
+    #    href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
+    #    target: _blank
+    #    icon: calender-day
+    #  - text: Book a zoom appointment
+    #    href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu/meetingtype/_TR502DM80G5OpzXWWKlMw2?anonymous&ep=mlink
+    #    target: _blank
+    #    icon: calender-day
 ---
 
 # Tuck Williamson, Graduate Teaching Assistant { .unnumbered .unlisted }
@@ -62,13 +66,16 @@ Book something then cancel instead of emailing me at the last minute please.
 - [Book a zoom appointment.]({{< meta zoomlink >}}){.external target="_blank"}
 - [Request a meeting outside of normal office hours.][reqOOOM]
  -->
+
 # Contact Information
 
-**Email Me**: *williamson***th** (at) g (dot) cofc (dot) edu - 
-[message me][email]{.external target="_blank"}
+- **Email Me**: *williamson***th** (at) g (dot) cofc (dot) edu - 
+- **Communicate via OAKS**: You can message me using OAKS via the 'Communicate' tab of the class.
+- **Alternative**: you can use [this form to message me][email]{.external target="_blank"}
+- **Zoom during Office Hours**: [open my zoom meeting.][zoomLink]{.external target="_blank"}
 
 <!-- [email]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hURTFMVjlLWkdYTEk3QkxYRUxGTkE5NjM5Wi4u -->
-[email]: mailto:williamsonth@g.cofc.edu
+[email]: https://docs.google.com/forms/d/e/1FAIpQLSfLkdXRgxcd-Y0421rsf8eSL7usSYazPWt39RCxtxPVBMG6kA/viewform?usp=header
 
 <!--
 [email]: mailto:williamsonth@cofc.edu?subject=Question%20about%20340
@@ -116,7 +123,7 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 |:----------|------------------------------------------------:|------------|
 | Monday    |                       🌙 End of class - 9:30 pm | **Out of Office July 14** |
 | Tuesday   |                                 🌙 8 pm - 10 pm | **Out of Office July 15** |
-| Wednesday |               8am - 10am                        | **Out of Office July 16** |
+| Wednesday |               10am - noon                       | **Out of Office July 16** |
 | Thursday  |               10am - noon <br> 2pm - 4pm        | **Out of Office July 17** |
 | Friday - Sunday   |                **By appointment Only**  | **Out of Office July 18-20** |
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
@@ -140,9 +147,9 @@ Tuesday evening hours that are **Appointment Only** will be offered by zoom appo
 
 ## Requesting Help Outside of Office Hours
 
-If my office hours are not compatible with your schedule please [email me and I will try and work something out.][email]{.external target="_blank"}
-I will try and 
-schedule time with you that works for both of our schedules. 
+If my office hours are not compatible with your schedule please [message me and I will try and work something out.][email]{.external target="_blank"}
+I will try and schedule time with you that works for both of our schedules.
+
 <!-- [request a meeting
 with me by filling out the linked form][reqOOOM].  -->
 
@@ -185,8 +192,9 @@ In such an event please either book an appointment ([see above](#appointments)) 
 ## Zoom Meeting Details
 **Topic**: Tuck Williamson's Personal Meeting Room
 
-[Join Zoom Meeting
-https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1](https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1){.external target="_blank"}
+[Join Zoom Meeting https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1][zoomLink]{.external target="_blank"}
+
+[zoomLink]: https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1
 
 ```default
 https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1

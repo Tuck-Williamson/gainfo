@@ -119,7 +119,7 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 ### For the week of July 21-26
 
-| Day       |                                           Hours | Exceptions |
+| Day       |                                           Hours | Notes |
 |:----------|----------------:|------------------------------|
 | Monday    |                       🌙 End of class - 9:30 pm |  |
 | Tuesday   |                                 🌙 8 pm - 10 pm |  |
@@ -131,13 +131,13 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 ### Normal Schedule
 
-| Day       |                                           Hours | Exceptions |
-|:----------|-------------------:|------------------------------|
-| Monday    |                       🌙 End of class - 9:30 pm |  |
-| Tuesday   |                                 🌙 8 pm - 10 pm |  |
-| Wednesday |               10am - noon                       |  |
-| Thursday  |               10am - noon <br><br> 2pm - 4pm        |  |
-| Friday - Sunday   |                **By appointment Only**  |  |
+| Day       |                                           Hours |
+|:----------|-------------------:|
+| Monday    |                       🌙 End of class - 9:30 pm |  
+| Tuesday   |                                 🌙 8 pm - 10 pm |  
+| Wednesday |               10am - noon                       |  
+| Thursday  |               10am - noon <br><br> 2pm - 4pm        |  
+| Friday - Sunday   |                **By appointment Only**  |  
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments

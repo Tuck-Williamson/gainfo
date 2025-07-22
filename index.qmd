@@ -91,12 +91,6 @@ Book something then cancel instead of emailing me at the last minute please.
 
 # Office Hours
 
-:::: { .callout-caution}
-
-I am out of town for a family trip from **July 12** through **July 20**.
-I will not be available at all during this time. 
-
-::::
 
 <!--
 :::: { .callout-caution}
@@ -123,13 +117,27 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 ## Current Office Hours Table
 
 
+### For the week of July 21-26
+
+| Day       |                                           Hours | Exceptions |
+|:----------|----------------:|------------------------------|
+| Monday    |                       🌙 End of class - 9:30 pm |  |
+| Tuesday   |                                 🌙 8 pm - 10 pm |  |
+| Wednesday |               10am - noon                       |  |
+| Thursday - Saturday   |                **By appointment Only**  | Reach out and ask for zoom help.<br>I will do my best to accomidate.  |
+| Sunday  |               10am - noon <br><br> 2pm - 4pm        | This is to support you getting the assignment done.<br>You should be testing (**not writing**) your solution by Sunday! |
+: Office Hours **For the week of July 21-26** {.striped }
+
+
+### Normal Schedule
+
 | Day       |                                           Hours | Exceptions |
 |:----------|-------------------:|------------------------------|
-| Monday    |                       🌙 End of class - 9:30 pm | **Out of Office July 14** |
-| Tuesday   |                                 🌙 8 pm - 10 pm | **Out of Office July 15** |
-| Wednesday |               10am - noon                       | **Out of Office July 16** |
-| Thursday  |               10am - noon <br><br> 2pm - 4pm        | **Out of Office July 17** <br> --- <br> **On July 24 from 3pm -4pm** |
-| Friday - Sunday   |                **By appointment Only**  | **Out of Office July 11-13, 18-20** |
+| Monday    |                       🌙 End of class - 9:30 pm |  |
+| Tuesday   |                                 🌙 8 pm - 10 pm |  |
+| Wednesday |               10am - noon                       |  |
+| Thursday  |               10am - noon <br><br> 2pm - 4pm        |  |
+| Friday - Sunday   |                **By appointment Only**  |  |
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments

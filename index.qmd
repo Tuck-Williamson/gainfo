@@ -114,8 +114,8 @@ During the times listed below that are marked as **CSL** I will not be available
 to zoom, but you are welcome to drop in at room **105F** to see me.
 -->
 
+<!-- 
 ## Current Office Hours Table
-
 
 ### For the week of July 21-26
 
@@ -128,8 +128,8 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 | Sunday  |               10am - noon <br><br> 2pm - 4pm        | This is to support you getting the assignment done.<br>You should be testing (**not writing**) your solution by Sunday! |
 : Office Hours **For the week of July 21-26** {.striped }
 
-
 ### Normal Schedule
+ -->
 
 | Day       |                                           Hours |
 |:----------|-------------------:|

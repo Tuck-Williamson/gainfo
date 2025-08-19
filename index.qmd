@@ -1,7 +1,7 @@
 ---
 title: "CSCI 340 Operating Systems - Summer II 2025"
 # ---- My Variables ----
-office: "Harbor Walk East - HWEA Office #**311**"
+office: "Harbor Walk East - HWEA Office #**105F**"
 #Change this below in the metadata too.
 booklink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
 #Change this below in the metadata too.
@@ -23,10 +23,14 @@ format:
         href: https://cofc.zoom.us/j/2805963064?pwd=CX8apjtmXACwaxLQ3NLeczxDHlUlpM.1
         target: _blank
         icon: chat-left-dots
-      - text: Class Zoom Link
-        href: https://cofc.zoom.us/j/97351824309?pwd=ZXhycXYveW9ycTNqMUdCak9nNkpNQT09
+      #- text: Class Zoom Link
+      #  href: https://cofc.zoom.us/j/97351824309?pwd=ZXhycXYveW9ycTNqMUdCak9nNkpNQT09
+      #  target: _blank
+      #  icon: chat-left-dots
+      - text: My LinkedIn
+        href: https://www.linkedin.com/in/tuck-williamson
         target: _blank
-        icon: chat-left-dots
+        icon: linkedin
     #  - text: Book an appointment
     #    href: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
     #    target: _blank
@@ -92,7 +96,6 @@ Book something then cancel instead of emailing me at the last minute please.
 # Office Hours
 
 
-<!--
 :::: { .callout-caution}
 
 **Please check here prior to making a trip to my office.**
@@ -105,6 +108,7 @@ best for you, and for my classes/assignments.
 
 If you are already at Harbor Walk feel free to drop by during my office hours ({{< meta office >}}).
 
+<!-- 
 ## Center for Student Learning Office Hours
 
 I am working with the **[CSL](http://csl.cofc.edu/){.external target="_blank"}** to integrate some of my office 
@@ -112,9 +116,8 @@ hours with the tutoring desk at **Harbor Walk East** room **105F**.
 
 During the times listed below that are marked as **CSL** I will not be available
 to zoom, but you are welcome to drop in at room **105F** to see me.
--->
 
-<!-- 
+
 ## Current Office Hours Table
 
 ### For the week of July 21-26
@@ -133,12 +136,14 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 | Day       |                                           Hours |
 |:----------|-------------------:|
-| Monday    |                       🌙 End of class - 9:30 pm |  
-| Tuesday   |                                 🌙 8 pm - 10 pm |  
-| Wednesday |               10am - noon                       |  
-| Thursday  |               10am - noon <br><br> 2pm - 4pm        |  
+| Monday    |                                       1pm - 5pm |  
+| Tuesday   |                                 10:30am - 11:20am **CLASS** 12:35pm - 4:30pm |  
+| Wednesday |               **By appointment Only**                        |  
+| Thursday   |                                 10:30am - 11:20am **CLASS** 12:35pm - 4:30pm |  
 | Friday - Sunday   |                **By appointment Only**  |  
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
+
+<!-- | Thursday  |               10am - noon <br><br> 2pm - 4pm        |   -->
 
 # Appointments
 

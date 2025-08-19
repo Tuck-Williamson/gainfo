@@ -1,5 +1,5 @@
 ---
-title: "CSCI 340 Operating Systems - Summer II 2025"
+title: "CSCI 340 Operating Systems - 2025"
 # ---- My Variables ----
 office: "Harbor Walk East - HWEA Office #**105F**"
 #Change this below in the metadata too.

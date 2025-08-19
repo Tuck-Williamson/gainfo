@@ -47,23 +47,24 @@ format:
 
 Graduate Student - Masters in Computer Science, College of Charleston
 
-<!-- 
 :::: { .callout-important }
 
 Do not wait until the last minute to contact me for help! I have a family and my
 own classes.
 
-If you have not [made an appointment](#appointments) during my office hours or 
+If you have not come by or made an appointment during my office hours or 
 [requested an appointment](#requesting-help-outside-of-office-hours)
 outside my regular office hours in advance there may be little I can do to 
 help you on short notice.
 
+::::
+
+<!-- 
 I will not be hurt or upset if you **book early and then cancel when you don't need 
 help**^[Please cancel if possible. There is a button in your 
 calendar event to cancel to make it easy to do so.].
 Book something then cancel instead of emailing me at the last minute please.
 
-::::
 
 # Links
 
@@ -82,12 +83,7 @@ Book something then cancel instead of emailing me at the last minute please.
 - **Alternative**: you can use [this form to message me][email]{.external target="_blank"}
 - **Zoom during Office Hours**: [open my zoom meeting.][zoomLink]{.external target="_blank"}
 
-<!-- [email]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hURTFMVjlLWkdYTEk3QkxYRUxGTkE5NjM5Wi4u -->
 [email]: https://docs.google.com/forms/d/e/1FAIpQLSfLkdXRgxcd-Y0421rsf8eSL7usSYazPWt39RCxtxPVBMG6kA/viewform?usp=header
-
-<!--
-[email]: mailto:williamsonth@cofc.edu?subject=Question%20about%20340
--->
 
 <!--
 **Office**: {{< meta office >}}

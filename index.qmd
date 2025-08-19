@@ -137,9 +137,9 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 | Day       |                                           Hours |
 |:----------|-------------------:|
 | Monday    |                                       1pm - 5pm |  
-| Tuesday   |                                 10:30am - 11:20am **CLASS** 12:35pm - 4:30pm |  
+| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>After the first week or two this will become until 4:30pm |
 | Wednesday |               **By appointment Only**                        |  
-| Thursday   |                                 10:30am - 11:20am **CLASS** 12:35pm - 4:30pm |  
+| Thursday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>After the first week or two this will become until 4:30pm |  
 | Friday - Sunday   |                **By appointment Only**  |  
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 

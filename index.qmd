@@ -132,42 +132,43 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 | Day       |                                           Hours |
 |:----------|-------------------:|
-| Monday    |                                       1pm - 5pm |  
-| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>After the first week or two this will become until 4:30pm |
-| Wednesday |               **By appointment Only**                        |  
-| Thursday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>After the first week or two this will become until 4:30pm |  
-| Friday - Sunday   |                **By appointment Only**  |  
+| Monday    | 1pm - 5pm |  
+| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>Will become 10:30a - 4:30p ~ Sept 2<sup>nd</sup>. |
+| Wednesday | **By appointment only**                        |  
+| Thursday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>Will become 10:30a - 4:30p ~ Sept 4<sup>th</sup>. |  
+| Friday - Sunday | **By appointment only**  |  
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 <!-- | Thursday  |               10am - noon <br><br> 2pm - 4pm        |   -->
 
 # Appointments
 
-You don't need to book an appointment for office hours, but please e-mail me if it is during my posted hours and I don't immediately let you in to my zoom meeting.
+<!-- You don't need to book an appointment for office hours, but please e-mail me if it is during my posted hours and I don't immediately let you in to my zoom meeting. -->
 
-<!-- You don't **need** to make an appointment for my office hours; however, I do have a 
+You don't **need** to make an appointment for my office hours; however, I do have a 
 family and may have things come up. 
 If you know you want to see me then making an appointment will be helpful both in 
 that if something comes up I know who I need to reschedule, and additionally I can 
 get an idea of what you need to discuss. 
-[Book an appointment]({{< meta booklink >}}){.external target="_blank"}.
+[Book an appointment](https://docs.google.com/forms/d/e/1FAIpQLSfLkdXRgxcd-Y0421rsf8eSL7usSYazPWt39RCxtxPVBMG6kA/viewform?usp=pp_url&entry.1128249813=340+-+Appointment+on+%3CDATE%3E+at+%3CTIME%3E&entry.1016115638=I+would+like+to+meet+with+you+%3CIN+PERSON+or+VIA+ZOOM%3E.%0A%3CWHAT+YOU+WANT+TO+SEE+ME+ABOUT%3E).
+
 
 I am happy to help out either in person or via zoom, but for zoom based help 
 please make an appointment. 
-Tuesday evening hours that are **Appointment Only** will be offered by zoom appointment. 
+<!-- Tuesday evening hours that are **Appointment Only** will be offered by zoom appointment. 
 [Book a zoom appointment]({{< meta zoomlink >}}){.external target="_blank"}. 
  -->
 
 ## Requesting Help Outside of Office Hours
 
-If my office hours are not compatible with your schedule please [message me and I will try and work something out.][email]{.external target="_blank"}
-I will try and schedule time with you that works for both of our schedules.
+If my office hours are not compatible with your schedule please [message me and I will try and work something out.](https://docs.google.com/forms/d/e/1FAIpQLSfLkdXRgxcd-Y0421rsf8eSL7usSYazPWt39RCxtxPVBMG6kA/viewform?usp=pp_url&entry.1128249813=340+-+Request+for+non-office+hours+appointment&entry.1016115638=I+would+like+to+meet+with+you+%3CIN+PERSON+or+VIA+ZOOM%3E.%0ASome+dates+and+times+that+would+work+for+my+schedule+are:+%3CGIVE+ME+2%2B+OPTIONS%3E.%0A%0A%3CWHAT+YOU+WANT+TO+SEE+ME+ABOUT%3E){.external target="_blank"}
+I will try and schedule time with you that works for both of our schedules including in evenings or weekends if necessary.
 
 <!-- [request a meeting
 with me by filling out the linked form][reqOOOM].  -->
 
 
-[reqOOOM]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUNVJKTTZQSFUyRVRVVkZSUzdWTzRYNjYxNy4u {.external target="_blank"}
+<!-- [reqOOOM]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUNVJKTTZQSFUyRVRVVkZSUzdWTzRYNjYxNy4u {.external target="_blank"} -->
 
 <!--
 Providing me with **at least three** options that would work for your schedule 
@@ -177,30 +178,29 @@ would be **helpful**.
 
 # Zoom Information
 
-As this is a remote class all of my office hours will be zoom based and accessed using the information below.
+<!-- As this is a remote class all of my office hours will be zoom based and accessed using the information below. -->
 
-<!--
-I will also be available via zoom during my office hours. If you want to have an
-unscheduled zoom session with me during office hours you can try my personal 
-meeting room (details below). Please just 
-[fill this out and I will get pinged with the request][reqZoomNow].
 
-[reqZoomNow]: mailto:williamsonth@cofc.edu?subject=Would%20you%20be%20able%20to%20have%20a%20Zoom%20meeting%20Now%3F&body=Would%20you%20be%20able%20to%20zoom%20with%20me%20shortly%3F%0A%0AADD-DETAILS-HERE-IF-YOU-WANT%0A%0AThanks%2C%0A%0AYOUR_NAME_HERE
--->
+I may also be available via Zoom during my office hours. 
+If you want to have an **unscheduled** Zoom session with me **during 
+my in-person office hours** you can try my [personal meeting room][zoomLink].
+If I am not on within a minute or two please [contact me](#contact-information) so that I know you are trying to Zoom.
 
-[reqZoomNow]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUQUQ4UTk0VTI1SVBSTlVDVTIxSjE4VUkwRy4u
+<!-- [reqZoomNow]: mailto:williamsonth@cofc.edu?subject=Would%20you%20be%20able%20to%20have%20a%20Zoom%20meeting%20Now%3F&body=Would%20you%20be%20able%20to%20zoom%20with%20me%20shortly%3F%0A%0AADD-DETAILS-HERE-IF-YOU-WANT%0A%0AThanks%2C%0A%0AYOUR_NAME_HERE -->
 
-<!-- 
+
+<!-- [reqZoomNow]: https://forms.office.com/Pages/ResponsePage.aspx?id=ONSF4rrbTEqUHFk7pCLerDUFZmClAphNkr9VpphUs0hUQUQ4UTk0VTI1SVBSTlVDVTIxSjE4VUkwRy4u -->
+
+
 :::: { .callout-warning }
 
-If I do not accept you into my meeting I may be busy with another student via zoom
-or in person.
+If I do not accept you into my meeting I may be busy with another student.
 
 In such an event please either book an appointment ([see above](#appointments)) or 
-[email me][email] and I will get back to you as soon as I can.
+[message me][email] and I will get back to you as soon as I can.
 
 ::::
- -->
+
 
 ## Zoom Meeting Details
 **Topic**: Tuck Williamson's Personal Meeting Room

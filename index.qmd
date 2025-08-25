@@ -132,10 +132,10 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 | Day       |                                           Hours |
 |:----------|-------------------:|
-| Monday    | 1pm - 5pm |  
-| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>Will become 10:30a - 4:30p ~ Sept 2<sup>nd</sup>. |
+| Monday    | *3pm - 5pm Starting September 7<sup>th</sup>* |  
+| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>*Will become 10:30a - 4:30p ~ Sept 9<sup>nd</sup>.* |
 | Wednesday | **By appointment only**                        |  
-| Thursday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>Will become 10:30a - 4:30p ~ Sept 4<sup>th</sup>. |  
+| Thursday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>*Will become 10:30a - 4:30p ~ Sept 11<sup>th</sup>.* |  
 | Friday - Sunday | **By appointment only**  |  
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 

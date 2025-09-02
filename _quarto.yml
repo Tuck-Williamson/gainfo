@@ -5,13 +5,13 @@ project:
   #   port: 10001
   #   host: 41eb1c561fe6 #`uname -n`
   #   browser: false
-# website:
+website:
   # google-analytics:
   #   tracking-id: "G-WRWNYTYD1G"
   #   storage: none
-  # announcement:
-  #   icon: exclamation-circle
-  #   dismissable: true
-  #   content: "**Updated Office Hours - Feb 18<sup>th</sup>** - Please note that I have recent changes to my office hours."
-  #   type: danger
-  #   position: below-navbar
+  announcement:
+    icon: exclamation-circle
+    dismissable: true
+    content: "**Updated Office** --- please note that I am now in HWEA 105**C**. It is just down the hall from 105F."
+    type: danger
+    position: below-navbar

@@ -1,7 +1,7 @@
 ---
-title: "CSCI 340 Operating Systems - 2025"
+title: "CSCI 340 / CSCI 218 - Fall 2025"
 # ---- My Variables ----
-office: "Harbor Walk East - HWEA Office #**105F**"
+office: "Harbor Walk East - HWEA Office #**105[C]{.mark}**"
 #Change this below in the metadata too.
 booklink: https://outlook.office.com/bookwithme/user/0a4ce8c8942f4df4a1c6249a52630d7a@g.cofc.edu?anonymous&ep=plink
 #Change this below in the metadata too.
@@ -78,28 +78,29 @@ Book something then cancel instead of emailing me at the last minute please.
 
 # Contact Information
 
+- **PREFERRED**: [Use this form to message me][email]{.external target="_blank"}
 - **Email Me**: *williamson***th** (at) g (dot) cofc (dot) edu - 
-- **Communicate via OAKS**: You can message me using OAKS via the 'Communicate' tab of the class.
-- **Alternative**: you can use [this form to message me][email]{.external target="_blank"}
+- **Communicate via OAKS**: You can message me using OAKS via the 'Communicate' tab of the class ([340 students only - I will not show up in the Communicate tab of 218]{.mark}).
 - **Zoom during Office Hours**: [open my zoom meeting.][zoomLink]{.external target="_blank"}
+- **Office**: {{< meta office >}} on the first floor 
+
 
 [email]: https://docs.google.com/forms/d/e/1FAIpQLSfLkdXRgxcd-Y0421rsf8eSL7usSYazPWt39RCxtxPVBMG6kA/viewform?usp=header
-
-<!--
-**Office**: {{< meta office >}}
--->
 
 # Office Hours
 
 
 :::: { .callout-caution}
 
-**Please check here prior to making a trip to my office.**
+**Please message me prior to making a trip to my office.**
 
-I **will** update my office hours here throughout the semester.
+If you are not already in the building and are making the trip from main campus please [message me][email].
+I have children and a family. 
+Occasionally things come up and if you message me I know who I need to contact to reschedule.
+<!-- I **will** update my office hours here throughout the semester.
 Specifically after the first couple of weeks when I have determined what works 
 best for you, and for my classes/assignments.
-
+ -->
 ::::
 
 If you are already at Harbor Walk feel free to drop by during my office hours ({{< meta office >}}).
@@ -132,10 +133,10 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 
 | Day       |                                           Hours |
 |:----------|-------------------:|
-| Monday    | *3pm - 5pm Starting September 7<sup>th</sup>* |  
-| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>*Will become 10:30a - 4:30p ~ Sept 9<sup>nd</sup>.* |
-| Wednesday | **By appointment only**                        |  
-| Thursday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:30pm<br>*Will become 10:30a - 4:30p ~ Sept 11<sup>th</sup>.* |  
+| Monday    | 3pm - 5pm  |  
+| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 4:30pm |
+| Wednesday | [**10:30am - 12 pm --- CSCI 218 help**]{.mark}                        |  
+| Thursday   | [**10am - 11:20am --- CSCI 218 help**]{.mark} **CLASS** 12:35pm - 4:30pm |  
 | Friday - Sunday | **By appointment only**  |  
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 

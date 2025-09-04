@@ -131,16 +131,29 @@ to zoom, but you are welcome to drop in at room **105F** to see me.
 ### Normal Schedule
  -->
 
+## General Office Hours
+
 | Day       |                                           Hours |
 |:----------|-------------------:|
 | Monday    | 3pm - 5pm  |  
 | Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 4:30pm |
-| Wednesday | [**10:30am - 12 pm --- CSCI 218 help**]{.mark}                        |  
-| Thursday   | [**10am - 11:20am --- CSCI 218 help**]{.mark} **CLASS** 12:35pm - 4:30pm |  
+| Wednesday | **By appointment only** |  
+| Thursday   | **11:20am CLASS** 12:35pm - 3:30pm |  
 | Friday - Sunday | **By appointment only**  |  
 : Office Hours (updated {{< meta date-modified >}} ) {.striped }
 
 <!-- | Thursday  |               10am - noon <br><br> 2pm - 4pm        |   -->
+
+## Office Hours For CSCI 218 Students
+
+| Day       |                                           Hours |
+|:----------|-------------------:|
+| Monday    | N/A |  
+| Tuesday   | N/A |
+| Wednesday | 10:30am - 12pm                        |  
+| Thursday   | 10am - 11:20am |  
+| Friday - Sunday | N/A  |  
+: Office Hours For CSCI 218 (updated {{< meta date-modified >}} ) {.striped }
 
 # Appointments
 

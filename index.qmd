@@ -81,7 +81,7 @@ Book something then cancel instead of emailing me at the last minute please.
 - **PREFERRED**: [Use this form to message me][email]{.external target="_blank"}
 - **Email Me**: *williamson***th** (at) g (dot) cofc (dot) edu 
 - **Communicate via OAKS**: You can message me using OAKS via the 'Communicate' tab of the class ([340 students only - I will not show up in the Communicate tab of 218]{.mark}).
-- **Zoom during Office Hours**: [open my zoom meeting.][zoomLink]{.external target="_blank"} - Please message me (see above) before trying to Zoom so I know to be on.
+- **Zoom during Office Hours**: [open my zoom meeting.][zoomLink]{.external target="_blank"} - Please message me (see above) before trying to Zoom so I know to hop on.
 - **Office**: {{< meta office >}} on the first floor.
 
 
@@ -94,7 +94,7 @@ Book something then cancel instead of emailing me at the last minute please.
 
 **Please message me prior to making a trip to my office.**
 
-If you are not already in the building and are making the trip from main campus please [message me][email].
+If you are **not** already in the building and are making the trip from main campus please [message me][email].
 I have children and a family. 
 Occasionally things come up and if you message me I know who I need to contact to reschedule.
 <!-- I **will** update my office hours here throughout the semester.

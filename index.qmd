@@ -80,7 +80,7 @@ Book something then cancel instead of emailing me at the last minute please.
 
 - **PREFERRED**: [Use this form to message me][email]{.external target="_blank"}
 - **Email Me**: *williamson***th** (at) g (dot) cofc (dot) edu 
-- **Communicate via OAKS**: You can message me using OAKS via the 'Communicate' tab of the class ([340 students only - I will not show up in the Communicate tab of 218]{.mark}).
+- **Communicate via OAKS**: You can message me using OAKS via the 'Communicate' tab of the class.
 - **Zoom during Office Hours**: [open my zoom meeting.][zoomLink]{.external target="_blank"} - Please message me (see above) before trying to Zoom so I know to hop on.
 - **Office**: {{< meta office >}} on the first floor.
 
@@ -123,7 +123,7 @@ If you are already at Harbor Walk feel free to drop by during my office hours ({
 |:----------|-------------------:|
 | Monday    | **LAB** 3:30pm - 4:30pm |  
 | Tuesday   | N/A |
-| Wednesday | 11:30am - 12:30pm                        |  
+| Wednesday | 10:30am - 11:30am  |  
 | Thursday   | 10am - 11:20am **CLASS**|  
 | Friday - Sunday | N/A  |  
 : Office Hours For CSCI 218 (updated {{< meta date-modified >}} ) {.striped }

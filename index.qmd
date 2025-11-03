@@ -110,8 +110,8 @@ If you are already at Harbor Walk feel free to drop by during my office hours ({
 
 | Day       |                                           Hours |
 |:----------|-------------------:|
-| Monday    | 2:30pm - 3:30pm |  
-| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 4:30pm |
+| Monday    | 1:30pm - 2:15pm **LAB** 3:30pm - 4:30pm |  
+| Tuesday   | 10:30am - 11:20am **CLASS** 12:35pm - 2:15pm **LAB** 3:15pm4:30pm |
 | Wednesday | 9:15am - 10:15am |  
 | Thursday   | **11:20am CLASS** 12:35pm - 3:30pm |  
 | Friday - Sunday | **By appointment only**  |  
@@ -121,8 +121,8 @@ If you are already at Harbor Walk feel free to drop by during my office hours ({
 
 | Day       |                                           Hours |
 |:----------|-------------------:|
-| Monday    | **LAB** 3:30pm - 4:30pm |  
-| Tuesday   | N/A |
+| Monday    | **LAB - HWWE 110** 2:15pm - 3:30pm |  
+| Tuesday   | **LAB - HWWE 110** 2:15pm - 3:15pm |
 | Wednesday | 10:30am - 11:30am  |  
 | Thursday   | 10am - 11:20am **CLASS**|  
 | Friday - Sunday | N/A  |  

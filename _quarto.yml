@@ -12,6 +12,6 @@ website:
   announcement:
     icon: exclamation-circle
     dismissable: true
-    content: "**Updated Office** --- please note that I am now in HWEA 105**C**. It is just down the hall from 105F."
+    content: "**END OF SEMESTER OFFICE HOURS POSTED** --- See below for more information."
     type: danger
     position: below-navbar

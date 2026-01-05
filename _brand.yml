@@ -1,0 +1,48 @@
+color:
+  palette:
+    maroon: "#660000"
+    gold: "#bfa876"
+  primary: maroon
+  secondary: gold
+
+  background:
+    light: white
+    dark: maroon
+  foreground:
+      light: maroon
+      dark: white
+
+logo:
+  images:
+    block-c:
+      path: ./CofC Block C logo_1color-M.png
+      alt: "College of Charleston Logo"
+    block-c-w:
+      path: ./CofC Block C logo_1color-W.png
+      alt: "College of Charleston Logo"
+    cs-dept-small:
+      path: ./Dept Computer Science-C_stk-1color-M.png
+      alt: "College of Charleston Department of Computer Science Logo"
+    cs-dept-small-w:
+      path: ./Dept Computer Science-C_stk-1color-W.png
+      alt: "College of Charleston Department of Computer Science Logo"
+    cs-dept:
+      path: ./Dept Computer Science-C_hor-M.png
+      alt: "College of Charleston Department of Computer Science Logo"
+    cs-dept-w:
+      path: ./Dept Computer Science-C_hor-1color-W.png
+      alt: "College of Charleston Department of Computer Science Logo"
+  small:
+    light: block-c
+    dark: block-c-w
+  medium:
+    light: cs-dept-small
+    dark: cs-dept-small-w
+  large:
+    light: cs-dept
+    dark: cs-dept-w
+typography:
+  fonts:
+    - family: Helvetica Neu
+      source: google
+  

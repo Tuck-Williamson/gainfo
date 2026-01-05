@@ -1,19 +1,20 @@
-
 ---
-title: "Intro to Python – Lecture 1"
-subtitle: "Getting Started with Python & Writing Your First Programs"
-author: "Instructor Name"
-date: ""
+title: "Computer Programming I"
+subtitle: "CSCI 220"
+author: "Tuck Williamson"
 format:
-  revealjs:
+  live-revealjs:
+    transition: fade
     theme: simple
     slide-number: c/t
     progress: true
     code-tools: true      # show copy/run buttons
-    thebe: true           # make code cells runnable in-browser (requires internet/Binder/JupyterHub)
+    #thebe: true           # make code cells runnable in-browser (requires internet/Binder/JupyterHub)
     chalkboard: true
+    multiplex: true
     navigation-mode: linear
     footer: "Intro to Python • Lecture 1"
+    from: markdown+emoji
 execute:
   echo: true
   warning: false
@@ -25,16 +26,11 @@ jupyter: python3
 ## Welcome
 
 - **Course**: Intro to Python Programming
-- **Instructor**: _Your Name_
-- **Modality**: Live RevealJS with interactive Python blocks (via Thebe)
-- **Today’s goals**:
-  - Understand what Computer Science and Python are
-  - Write and run your first Python programs
-  - Learn the input → process → output mindset
-
-::: notes
-Warmly welcome students. Gauge prior exposure to coding. Let them know you’ll pause for questions after each section.
-:::
+- **Instructor**: Tuck Williamson
+  **Today’s goals**:
+  - Introduction and Syllabus Review
+  - Survey
+  - Hands-on with Python
 
 ## Introduction — Course
 
@@ -42,10 +38,6 @@ Warmly welcome students. Gauge prior exposure to coding. Let them know you’ll 
   - Problem solving with code
   - Fundamentals: variables, types, control flow, functions
   - Practice: hands-on exercises every class
-- Resources
-  - Official Python docs: https://docs.python.org/3/
-  - Course repo/LMS: *(add link)*
-  - Office hours: *(add times)*
 
 ## Introduction — Myself
 
@@ -57,48 +49,31 @@ Warmly welcome students. Gauge prior exposure to coding. Let them know you’ll 
 
 ## Introduction — Syllabus (Snapshot)
 
-- Weekly topics & readings
-- Assignments & labs cadence
 - Policies: attendance, collaboration, late work
-- Tools: Python 3.x, code editor (VS Code), Quarto (for slides/notebooks)
+- Tools: Python 3.8+
 
 ## Introduction — Important Information
 
 - Getting set up
-  - Install Python 3.x (from python.org) and VS Code
+  - Install Python 3.x (from python.org)
   - Create a working folder for the course
 - Where to find help
-  - Class discussion board
   - Office hours & tutoring center
 - Accessibility & accommodations
 
-## Introduction — Grading Notes
-
-- Labs / Assignments: **40%**
-- Quizzes: **20%**
-- Midterm: **20%**
-- Final Project: **20%**
-
-::: notes
-Adjust percentages to your actual syllabus. Clarify grading rubric and resubmission policies.
-:::
-
 ## Homework This Week
 
-* [ ] TODO -- due:today  project:
+* [ ] TODO -- due:today  
 
 
 ## Introduction — Survey Form
 
-- Please fill out the **Class Survey** so I can tailor examples and pacing:
-  - Link: *(insert your survey URL or QR code here)*
-  - Questions: prior experience, goals, preferred learning style
+- Please fill out the **Class Survey** so I can get to know you all a little bit better.
 
 ---
 
 ## Chapter 1 — The Universal Machine
 
-- A computer can simulate any other computable machine
 - Stores and transforms information using simple, universal rules
 - Programmable: behavior changes with instructions
 
@@ -109,23 +84,18 @@ Adjust percentages to your actual syllabus. Clarify grading rubric and resubmiss
 - Scale ideas from one to millions of users
 - Turn data into insight (and action)
 
-## Chapter 1 — What is Computer Science?
-
-- The study of **computational problem solving**
-- Algorithms, data structures, language design, systems
-- Balances theory, engineering, and creativity
-
-## Chapter 1 — Hardware Basics
-
-- CPU (compute), Memory (short-term), Storage (long-term)
-- Inputs (keyboard, sensors) → Processing → Outputs (screen, sound)
-- Networks connect machines to share data & computation
-
 ## Chapter 1 — Programming Languages
 
 - Human-readable instructions → machine actions
 - Syntax + semantics define valid programs and meaning
 - High-level (Python) vs. low-level (C/assembly)
+- Machine code -- what the computer actually uses.
+
+::: {.notes}
+
+Elaborate on each of these.
+
+:::
 
 ## Chapter 1 — Python
 
@@ -133,12 +103,16 @@ Adjust percentages to your actual syllabus. Clarify grading rubric and resubmiss
 - Emphasizes readability and succinct code
 - Large ecosystem of libraries and tools
 
+* [ ] Show examples
+
 ---
 
 ## Hands-on — Hello World (Code & Output)
 
-```{python}
+```{pyodide}
 # Run this cell (▶) to print your first message
 print("Hello, world!")
-``
+
+
+```
 

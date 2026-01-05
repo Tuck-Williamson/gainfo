@@ -6,12 +6,25 @@ project:
   #   host: 41eb1c561fe6 #`uname -n`
   #   browser: false
 website:
+  title: "Tuck Williamson -- College of Charleston Dept. of Computer Science"
+  sidebar:
+    background: primary
+    contents: auto
+  navbar:
+    background: secondary
+    left:
+      - text: "Home"
+        href: ./index.qmd
+      #- text: "220"
+      #  href: ./220/CSCI-220-Spring-2026-Syllabus.qmd
+      - text: "L1"
+        href: ./220/Lecture-1.qmd
   # google-analytics:
   #   tracking-id: "G-WRWNYTYD1G"
   #   storage: none
-  announcement:
-    icon: exclamation-circle
-    dismissable: true
-    content: "**END OF SEMESTER OFFICE HOURS POSTED** --- See below for more information."
-    type: danger
-    position: below-navbar
+  # announcement:
+  #   icon: exclamation-circle
+  #   dismissable: true
+  #   content: "**END OF SEMESTER OFFICE HOURS POSTED** --- See below for more information."
+  #   type: danger
+  #   position: below-navbar
